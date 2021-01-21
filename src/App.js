@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import FCNavigation from './FunctionalComponents/FCNavigation';
 
 function App() {
   return (
     <div className="App">
-      <H3>Hello Yarin</H3>
+      <FCNavigation/>
     </div>
   );
 }
